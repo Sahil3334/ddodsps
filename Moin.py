@@ -6,10 +6,10 @@ import threading
 import json
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 
-bot = telebot.TeleBot('7251736932:AAG13M940pl_SPoRgdNs4MxgvDbTsLtHEck')
+bot = telebot.TeleBot('7677515047:AAGHTmbIkIgO7hrP4c0AUyRkq6Tq4Pr2qPc')
 
 # Admin user IDs
-admin_id = ["7209762563"]
+admin_id = ["1950356877"]
 
 # File to store user data (coins, registration date, etc.)
 USER_DATA_FILE = "users_data.json"
